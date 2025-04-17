@@ -1,0 +1,202 @@
+{
+  "123": [
+    {
+      "sender": "bot",
+      "message": "Hola, \u00bfEn qu\u00e9 puedo ayudarte?"
+    },
+    {
+      "sender": "user",
+      "message": "Hola"
+    },
+    {
+      "sender": "bot",
+      "message": "Hola, \u00bfEn qu\u00e9 puedo ayudarte?"
+    },
+    {
+      "sender": "user",
+      "message": "hola"
+    },
+    {
+      "sender": "bot",
+      "message": "Hola, \u00bfEn qu\u00e9 puedo ayudarte?"
+    },
+    {
+      "sender": "user",
+      "message": "problema con internet"
+    },
+    {
+      "sender": "bot",
+      "message": "Por favor reinicia tu modem y vuelve a intentarlo."
+    },
+    {
+      "sender": "user",
+      "message": "no funciona el servicio"
+    },
+    {
+      "sender": "bot",
+      "message": "Estamos trabajando para restablecer el servicio"
+    },
+    {
+      "sender": "user",
+      "message": "gracias"
+    },
+    {
+      "sender": "bot",
+      "message": "\u00a1De nada! Estamos para ayudarte."
+    },
+    {
+      "sender": "user",
+      "message": "hola"
+    },
+    {
+      "sender": "bot",
+      "message": "\u00a1Hola! \ud83d\ude0a \u00bfC\u00f3mo puedo ayudarte hoy?"
+    },
+    {
+      "sender": "user",
+      "message": "problema con internet"
+    },
+    {
+      "sender": "bot",
+      "message": "Entiendo lo frustrante que puede ser. Por favor, intenta reiniciar tu m\u00f3dem desconect\u00e1ndolo por 30 segundos y luego vuelve a conectarlo. Si el problema persiste, av\u00edsame para que podamos buscar otra soluci\u00f3n juntos."
+    },
+    {
+      "sender": "user",
+      "message": "no funciona el servicio"
+    },
+    {
+      "sender": "bot",
+      "message": "Lamento mucho los inconvenientes. Estamos trabajando arduamente para restablecer el servicio lo antes posible. Mientras tanto, \u00bfhay algo m\u00e1s en lo que pueda asistirte?"
+    },
+    {
+      "sender": "user",
+      "message": "gracias"
+    },
+    {
+      "sender": "bot",
+      "message": "\u00a1De nada! \ud83d\ude0a Siempre estoy aqu\u00ed para ayudarte. Si necesitas algo m\u00e1s, no dudes en dec\u00edrmelo."
+    },
+    {
+      "sender": "user",
+      "message": "problema con internet"
+    },
+    {
+      "sender": "bot",
+      "message": "Entiendo lo frustrante que puede ser. Por favor, intenta reiniciar tu m\u00f3dem desconect\u00e1ndolo por 30 segundos y luego vuelve a conectarlo. Si el problema persiste, av\u00edsame para que podamos buscar otra soluci\u00f3n juntos."
+    },
+    {
+      "sender": "user",
+      "message": "gracias"
+    },
+    {
+      "sender": "bot",
+      "message": "\u00a1De nada! \ud83d\ude0a Siempre estoy aqu\u00ed para ayudarte. Si necesitas algo m\u00e1s, no dudes en dec\u00edrmelo."
+    },
+    {
+      "sender": "user",
+      "message": "Hola"
+    },
+    {
+      "sender": "bot",
+      "message": "\u00a1Hola! \ud83d\ude0a \u00bfC\u00f3mo puedo ayudarte hoy?"
+    },
+    {
+      "sender": "user",
+      "message": "Hola"
+    },
+    {
+      "sender": "bot",
+      "message": "\u00a1Hola! \ud83d\ude0a \u00bfC\u00f3mo puedo ayudarte hoy?"
+    },
+    {
+      "sender": "user",
+      "message": "problemas con internet"
+    },
+    {
+      "sender": "bot",
+      "message": "Lo siento, no entiendo tu mensaje."
+    },
+    {
+      "sender": "user",
+      "message": "problema con internet"
+    },
+    {
+      "sender": "bot",
+      "message": "Entiendo lo frustrante que puede ser. Por favor, intenta reiniciar tu m\u00f3dem desconect\u00e1ndolo por 30 segundos y luego vuelve a conectarlo. Si el problema persiste, av\u00edsame para que podamos buscar otra soluci\u00f3n juntos."
+    },
+    {
+      "sender": "user",
+      "message": "hola"
+    },
+    {
+      "sender": "bot",
+      "message": "\u00a1Hola! \ud83d\ude0a \u00bfC\u00f3mo puedo ayudarte hoy?"
+    },
+    {
+      "sender": "user",
+      "message": "problema con internet"
+    },
+    {
+      "sender": "bot",
+      "message": "Entiendo lo frustrante que puede ser. Por favor, intenta reiniciar tu m\u00f3dem desconect\u00e1ndolo por 30 segundos y luego vuelve a conectarlo. Si el problema persiste, av\u00edsame para que podamos buscar otra soluci\u00f3n juntos."
+    },
+    {
+      "sender": "user",
+      "message": "problema con internet"
+    },
+    {
+      "sender": "bot",
+      "message": "Entiendo lo frustrante que puede ser. Por favor, intenta reiniciar tu m\u00f3dem desconect\u00e1ndolo por 30 segundos y luego vuelve a conectarlo. Si el problema persiste, av\u00edsame para que podamos buscar otra soluci\u00f3n juntos."
+    }
+  ],
+  "456": [
+    {
+      "sender": "user",
+      "message": "hola"
+    },
+    {
+      "sender": "bot",
+      "message": "Hola, \u00bfEn qu\u00e9 puedo ayudarte?"
+    },
+    {
+      "sender": "user",
+      "message": "tengo un problema con el internet"
+    },
+    {
+      "sender": "bot",
+      "message": "Lo siento, no entiendo tu mensaje."
+    },
+    {
+      "sender": "user",
+      "message": "problema con internet"
+    },
+    {
+      "sender": "bot",
+      "message": "Por favor reinicia tu modem y vuelve a intentarlo."
+    },
+    {
+      "sender": "user",
+      "message": "Hola"
+    },
+    {
+      "sender": "bot",
+      "message": "Hola, \u00bfEn qu\u00e9 puedo ayudarte?"
+    },
+    {
+      "sender": "user",
+      "message": "hola"
+    },
+    {
+      "sender": "bot",
+      "message": "Hola, \u00bfEn qu\u00e9 puedo ayudarte?"
+    },
+    {
+      "sender": "user",
+      "message": "problema con internet"
+    },
+    {
+      "sender": "bot",
+      "message": "Por favor reinicia tu modem y vuelve a intentarlo."
+    }
+  ]
+}
